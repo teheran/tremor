@@ -3,7 +3,7 @@ tremor
 
 Declarative SVG tremor
 
-'''html
+```html
 <div>
     <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300px" height="300px">
         <image x="100" y="100" width="100" height="100" xlink:href="http://upload.wikimedia.org/wikipedia/commons/c/cb/Footnote.svg">
